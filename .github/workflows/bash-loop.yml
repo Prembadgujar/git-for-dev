@@ -10,4 +10,4 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Run Bash loop
-        run: from_start/git-for-dev/whilewhileloop.sh
+        run: from_start/git-for-dev/whileloop.sh
